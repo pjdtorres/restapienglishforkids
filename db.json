@@ -8,7 +8,15 @@
         "highscore": 0
       }
     ],
-
+    "words": [
+        {
+          "id": 1,
+          "word": "Paulo",
+          "translation": "ab@my.pt",
+          "categories": "Numbers"
+        }
+      ],
+  
   "categories": [
     {
       "id": 1,
