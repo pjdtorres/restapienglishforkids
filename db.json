@@ -1,0 +1,29 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Paulo",
+        "email": "a@my.pt",
+        "xp": 0,
+        "highscore": 0
+      }
+    ],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://www.thewowstyle.com/wp-content/uploads/2014/11/1217.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://www.thewowstyle.com/wp-content/uploads/2014/11/1217.jpg"
+    },
+    {
+      "name": "colors",
+      "image": "https://www.thewowstyle.com/wp-content/uploads/2014/11/1217.jpg",
+      "id": 3
+    }
+  ]
+}
